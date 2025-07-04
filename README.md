@@ -15,7 +15,6 @@ Este repositório contém códigos e experimentos relacionados a reconhecimento 
 **Funcionalidades Atuais**
 - Detecção facial em tempo real via webcam.
 
-- Reconhecimento de rostos conhecidos a partir de uma base de dados (rostos salvos).
 
 - Análise de expressões faciais (feliz, triste, neutro, etc.).
 
@@ -23,6 +22,8 @@ Este repositório contém códigos e experimentos relacionados a reconhecimento 
 
 **Planejamento Futuro**
 - Comandos por Expressões Faciais: mapear expressões específicas (ex: levantar sobrancelhas, sorrir) para acionar comandos no sistema, útil para acessibilidade ou aplicações em jogos/controladores alternativos.
+
+- Reconhecimento de rostos conhecidos a partir de uma base de dados (rostos salvos).
 
 - Reconhecimento de Gestos com as Mãos: usar Mediapipe para detectar gestos pré-definidos com a mão (ex: fechar punho, levantar dedo) e associá-los a ações específicas.
 
