@@ -18,7 +18,7 @@ with mp_face_mesh.FaceMesh(
 ) as face_mesh:
 
     frame_count = 0
-    ultima_emocao_detectada = ""  # <- Correto: declarar fora do loop
+    ultima_emocao_detectada = "" 
 
     while cap.isOpened():
         success, frame = cap.read()
